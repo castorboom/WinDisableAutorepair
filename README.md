@@ -1,4 +1,4 @@
-<p alignt="center"><img alt="Disable Auto Repair Windows 10 and Windows 11" src="https://castorboom.github.io/WinDisableAutorepair/Screenshot/AutoRepair.jpg" /></p>
+<p align="center"><img alt="Disable Auto Repair Windows 10 and Windows 11" src="https://castorboom.github.io/WinDisableAutorepair/Screenshot/AutoRepair.jpg" /></p>
 
 # WinDisableAutorepair 🚫💻
 
