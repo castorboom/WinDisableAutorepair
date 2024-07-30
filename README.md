@@ -1,29 +1,33 @@
-# WinDisableAutorepair
+# WinDisableAutorepair 🚫💻
 
-Questo repository contiene un file batch (.bat) che disabilita la funzione di ripristino automatico di Windows (autorepair). Questa operazione può essere utile soprattutto dopo un'interruzione elettrica o un avvio errato.
+Benvenuti nel repository **WinDisableAutorepair**! Qui troverete un file batch (.bat) che disabilita la fastidiosa funzione di ripristino automatico di Windows (autorepair). Questo può essere particolarmente utile dopo un'interruzione elettrica ⚡️ o un avvio errato 🔄.
 
-## Istruzioni
+## Istruzioni 📜
 
-1. Scarica il file `DisableAutoRepair.bat` dal repository.
-2. Esegui il file `DisableAutoRepair.bat` come Amministratore.
+1. **Scarica** il file `DisableAutoRepair.bat` dal repository. 📥
+2. **Esegui** il file `DisableAutoRepair.bat` come **Amministratore**. 👨‍💻
 
-## Note
+## Note 📝
 
-- Questo script deve essere eseguito con privilegi di amministratore.
-- Si consiglia di creare un punto di ripristino del sistema prima di eseguire questo script.
+- Questo script deve essere eseguito con privilegi di amministratore. 🛡️
+- Si consiglia di creare un punto di ripristino del sistema prima di eseguire questo script. 🗄️
 
 ---
 
-# WinDisableAutorepair
+# WinDisableAutorepair 🚫💻
 
-This repository contains a batch file (.bat) that disables the Windows automatic repair function (autorepair). This can be particularly useful after a power outage or incorrect startup.
+Welcome to the **WinDisableAutorepair** repository! Here you will find a batch file (.bat) that disables the annoying Windows automatic repair function (autorepair). This can be particularly useful after a power outage ⚡️ or incorrect startup 🔄.
 
-## Instructions
+## Instructions 📜
 
-1. Download the `DisableAutoRepair.bat` file from the repository.
-2. Run the `DisableAutoRepair.bat` file as Administrator.
+1. **Download** the `DisableAutoRepair.bat` file from the repository. 📥
+2. **Run** the `DisableAutoRepair.bat` file as **Administrator**. 👨‍💻
 
-## Notes
+## Notes 📝
 
-- This script must be run with administrator privileges.
-- It is recommended to create a system restore point before running this script.
+- This script must be run with administrator privileges. 🛡️
+- It is recommended to create a system restore point before running this script. 🗄️
+
+---
+
+![Windows Repair Off](https://via.placeholder.com/600x150.png?text=Windows+Repair+Off)
