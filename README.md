@@ -1,4 +1,5 @@
-<p alignt="center">![Windows Auto Repair Disable](https://castorboom.github.io/WinDisableAutorepair/Screenshot/AutoRepair.jpg)</p>
+<p alignt="center"><img alt="Disable Auto Repair Windows 10 and Windows 11" src="https://castorboom.github.io/WinDisableAutorepair/Screenshot/AutoRepair.jpg" /></p>
+
 # WinDisableAutorepair 🚫💻
 
 Benvenuti nel repository **WinDisableAutorepair**! Qui troverete un file batch (.bat) che disabilita la fastidiosa funzione di ripristino automatico di Windows (autorepair). Questo può essere particolarmente utile dopo un'interruzione elettrica ⚡️ o un avvio errato 🔄.
